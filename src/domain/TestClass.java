@@ -10,5 +10,7 @@ package domain;
  * @author svre257
  */
 public class TestClass {
-    
+    public static void main (String [] args){
+        
+    }
 }
